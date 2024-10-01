@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java🍵
 - 💞️ I’m looking to collaborate on Data Science projects ⚛️
 - 😄 Pronouns: (he/him)
-- ⚡ Fun fact: My first programming language was java <script> </script>
+- ⚡ Fun fact: My first programming language was java script <script> </script>
 
 <!---
 OmerKhan2905/OmerKhan2905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
